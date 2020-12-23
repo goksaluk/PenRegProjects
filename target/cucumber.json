@@ -1,0 +1,173 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2020-12-23T08:43:10.647Z",
+        "before": [
+          {
+            "result": {
+              "duration": 347787,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "",
+        "description": "",
+        "id": "homepage-elements;",
+        "after": [
+          {
+            "result": {
+              "duration": 38747,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.endAPISession()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2724003385,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "HomepageStepDefinitions.iAmOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 36692492,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I accept cookies",
+            "match": {
+              "location": "HomepageStepDefinitions.iAcceptCookies()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4600915,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the page title should contain \"The Pensions Regulator | workplace pensions law | auto enrolment | The Pensions Regulator\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"The Pensions Regulator | workplace pensions law | auto enrolment | The Pensions Regulator\"",
+                  "offset": 30
+                }
+              ],
+              "location": "HomepageStepDefinitions.thePageTitleShouldContain(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 57207658,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I see the News section is displayed",
+            "match": {
+              "location": "HomepageStepDefinitions.iSeeTheNewsSectionIsDisplayed()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10165510,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I see the news items as 3",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 24
+                }
+              ],
+              "location": "HomepageStepDefinitions.iSeeTheNewsItemsAs(int)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4225553178,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Validate the navigation links and page headings for all the news items",
+            "match": {
+              "location": "HomepageStepDefinitions.validate_the_navigation_links_and_page_headings_for_all_the_news_items(String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "New Chair and four new members appointed to TPR\u0027s Determinations Panel"
+                ]
+              },
+              {
+                "cells": [
+                  "Employers reminded of AE duties as penalties rise"
+                ]
+              },
+              {
+                "cells": [
+                  "Pension trustees must be ready for possible sponsor distress, says regulator"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 138214336,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I validate the news items dates are in descending order",
+            "match": {
+              "location": "HomepageStepDefinitions.iValidateTheNewsItemsDatesAreInDescendingOrder()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@homepage"
+          }
+        ]
+      }
+    ],
+    "name": "Homepage elements",
+    "description": "",
+    "id": "homepage-elements",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Homepage.feature",
+    "tags": [
+      {
+        "name": "@homepage",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
