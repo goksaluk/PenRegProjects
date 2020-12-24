@@ -77,17 +77,17 @@ formatter.step({
   "rows": [
     {
       "cells": [
+        "Pension scam busting campaign hits over 100 pledges"
+      ]
+    },
+    {
+      "cells": [
         "New Chair and four new members appointed to TPR\u0027s Determinations Panel"
       ]
     },
     {
       "cells": [
         "Employers reminded of AE duties as penalties rise"
-      ]
-    },
-    {
-      "cells": [
-        "Pension trustees must be ready for possible sponsor distress, says regulator"
       ]
     }
   ],

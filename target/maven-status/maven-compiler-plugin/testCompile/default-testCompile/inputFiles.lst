@@ -1,0 +1,10 @@
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/step_definitions/Hooks.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/step_definitions/HomepageStepDefinitions.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/step_definitions/UsersStepDefs.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/utilities/ConfigurationReader.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/utilities/BrowserUtils.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/pages/Homepage.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/pages/UsersAPI.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/runners/CukesRunner.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/pages/BasePage.java
+/Users/goksalcavdar/IdeaProjects/PensionsRegulatorProject/src/test/java/com/pen_regulator/utilities/Driver.java

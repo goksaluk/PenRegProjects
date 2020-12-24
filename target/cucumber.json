@@ -3,11 +3,11 @@
     "line": 3,
     "elements": [
       {
-        "start_timestamp": "2020-12-23T08:43:10.647Z",
+        "start_timestamp": "2020-12-23T12:06:31.237Z",
         "before": [
           {
             "result": {
-              "duration": 347787,
+              "duration": 391789,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 38747,
+              "duration": 36118,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2724003385,
+              "duration": 2471744343,
               "status": "passed"
             },
             "line": 6,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 36692492,
+              "duration": 38263060,
               "status": "passed"
             },
             "line": 7,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 4600915,
+              "duration": 5173948,
               "status": "passed"
             },
             "line": 8,
@@ -77,7 +77,7 @@
           },
           {
             "result": {
-              "duration": 57207658,
+              "duration": 59571328,
               "status": "passed"
             },
             "line": 9,
@@ -89,7 +89,7 @@
           },
           {
             "result": {
-              "duration": 10165510,
+              "duration": 12937733,
               "status": "passed"
             },
             "line": 10,
@@ -107,7 +107,7 @@
           },
           {
             "result": {
-              "duration": 4225553178,
+              "duration": 4788011805,
               "status": "passed"
             },
             "line": 11,
@@ -118,6 +118,11 @@
             "rows": [
               {
                 "cells": [
+                  "Pension scam busting campaign hits over 100 pledges"
+                ]
+              },
+              {
+                "cells": [
                   "New Chair and four new members appointed to TPR\u0027s Determinations Panel"
                 ]
               },
@@ -125,18 +130,13 @@
                 "cells": [
                   "Employers reminded of AE duties as penalties rise"
                 ]
-              },
-              {
-                "cells": [
-                  "Pension trustees must be ready for possible sponsor distress, says regulator"
-                ]
               }
             ],
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 138214336,
+              "duration": 121185947,
               "status": "passed"
             },
             "line": 15,

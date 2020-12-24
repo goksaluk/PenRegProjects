@@ -5,7 +5,6 @@ Feature: Users API Test
   Background:
     Given I set REST API url
 
-
   Scenario Outline: verify user from users API
     Then I send the request to "users_endpoint" with page 2
     Then status code should be 200

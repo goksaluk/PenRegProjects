@@ -49,17 +49,16 @@ public class Homepage extends BasePage{
         return Driver.get().getTitle();
     }
 
+
     public boolean checkDateOrder() throws ParseException {
-        ArrayList<String> list = new ArrayList<>();
-        for (WebElement date : dates) {
-            list.add(date.getText());
-        }
 
         ArrayList<Date> datesList = new ArrayList<>();
         SimpleDateFormat formatter = new SimpleDateFormat("EEE d MMM yyyy");
-        for (String date : list) {
-            datesList.add(formatter.parse(date));
+
+        for (WebElement date : dates) {
+            datesList.add(formatter.parse(date.getText()));
         }
+
 
         boolean flag=false;
         for (int i=0; i<datesList.size()-1; i++) {
